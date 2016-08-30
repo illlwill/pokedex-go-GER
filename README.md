@@ -1,10 +1,11 @@
-# POKÉDEX GO [![Build Status](https://travis-ci.org/zwacky/pokedex-go.svg?branch=master)](https://travis-ci.org/zwacky/pokedex-go)
+# POKÉDEX GO
 
-[Facebook Messenger Bot](https://www.facebook.com/pokemondexgo) to get Pokémon infos like weaknesses easy and fast. All the infos a Pokémon trainer needs to take over the gyms in the wild.
+[Facebook Messenger Bot] to get Pokémon infos like weaknesses easy and fast. All the infos a Pokémon trainer needs to take over the gyms in the wild.
 
 Pokemon data is based on http://pokemongo.gamepress.gg.
 
-![Bot in Action](https://gifyu.com/images/pokedex-go-1.0.gif)
+This repository has been set up only for educational purposes only! It is based on https://github.com/zwacky/pokedex-go by zwacky.
+
 
 # Usage
 
