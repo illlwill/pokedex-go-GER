@@ -4,7 +4,7 @@
 
 Pokemon data is based on http://pokemongo.gamepress.gg.
 
-This repository has been set up only for educational purposes only! It is based on https://github.com/zwacky/pokedex-go by zwacky.
+# This repository has been set up for educational purposes only! It is based on https://github.com/zwacky/pokedex-go by zwacky.
 
 
 # Usage
